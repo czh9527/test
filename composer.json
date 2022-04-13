@@ -10,6 +10,7 @@
             "email": "czh95270201@163.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
