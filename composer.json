@@ -1,0 +1,19 @@
+{
+    "name": "czh9527/test",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "authors": [
+        {
+            "name": "czh",
+            "email": "czh95270201@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "czh9527\\test\\": "src"
+        }
+    }
+}
